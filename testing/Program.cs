@@ -12,6 +12,10 @@ namespace testing
         {
             int x = 3;
             Console.WriteLine("x is: " + x);
+            string name = "Ali",city="Karachi";
+
+            Console.WriteLine(name + " lives in " + city);
+
         }
     }
 }
